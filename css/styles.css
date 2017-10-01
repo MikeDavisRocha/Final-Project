@@ -1,0 +1,47 @@
+.row-content {
+    margin: 0px auto;
+    padding: 50px 0px;
+    border-bottom: 1px ridge;
+    min-height: 400px;
+}
+
+.nav-color {
+    background-color: #285B69;
+}
+
+a {
+    color: floralwhite;
+}
+
+.accent-color {
+    background-color: #285B69;
+}
+.text-primary-color {
+    color: floralwhite;
+}
+.footer {
+    background-color: #285B69;
+    margin: 0px auto;
+    padding: 20px 0px 20px 0px;
+    color: floralwhite;
+}
+
+.carousel {
+    background: #285B69;
+}
+
+.carousel .carousel-item {
+    height: 300px;
+}
+
+.carousel .carousel-item img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    min-height: 300px;
+}
+
+#map {
+    height: 450px;
+    width: 100%;
+}
